@@ -10,7 +10,7 @@ In this investigation, I explore how modern web frameworks like **React**, **Vue
 
 ### What challenges did early web frameworks like Angular and React aim to solve?
 
-Historically, web development relied on imperative libraries like **jQuery** to handle DOM manipulation. However, as web applications grew more interactive and complex, developers faced the following issues:
+Modern frameworks like **Angular** and **React** were developed to address key challenges in web development:
 
 1. **DOM Manipulation Complexity**  
    - Libraries like **jQuery** required manual DOM manipulation, which became cumbersome. React introduced the **Virtual DOM**, improving performance by reducing direct DOM updates.
@@ -33,6 +33,10 @@ Historically, web development relied on imperative libraries like **jQuery** to 
 #### LLM Answer Summary:
 The LLM emphasized that early frameworks like React and Angular were developed to tackle the manual DOM manipulation complexity, lack of structured development, and the need for reusable components. These frameworks introduced componentization and virtual DOM strategies to solve these problems.
 
+#### References:
+- **[React: A JavaScript Library for Building User Interfaces](https://reactjs.org/docs/getting-started.html)**
+- **[MVC and Component-Based Architectures: Past and Present](https://scholar.google.com/scholar?q=MVC+architecture+in+web+frameworks)** (Google Scholar)
+
 ---
 
 ## Comparing Traditional Methods and Modern Frameworks
@@ -53,13 +57,17 @@ The LLM emphasized that early frameworks like React and Angular were developed t
 
 4. **Performance**  
    - **jQuery**: Direct DOM manipulation slows down performance.  
-   - **React**: Uses **Virtual DOM** to optimize performance.
+   - **React's Virtual DOM** optimizes performance by applying only the necessary changes.
 
 ---
 
 ### Question asked: "How do modern web frameworks like React differ from traditional methods like jQuery?"
 #### LLM Answer Summary:
 The LLM provided insights into how React’s declarative approach, component-based architecture, and use of Virtual DOM differentiate it from traditional libraries like jQuery.
+
+#### References:
+- **[React vs. jQuery: A Technical Comparison](https://www.keycdn.com/blog/react-vs-jquery)**
+- **[Declarative Programming in React](https://scholar.google.com/scholar?q=Declarative+programming+in+React)** (Google Scholar)
 
 ---
 
@@ -85,6 +93,10 @@ The LLM provided insights into how React’s declarative approach, component-bas
 #### LLM Answer Summary:
 The LLM highlighted that frameworks like React use component-based architectures and the Virtual DOM to enhance scalability and performance. It also discussed how SSR frameworks like **Next.js** improve SEO and performance, addressing some limitations of CSR.
 
+#### References:
+- **[Next.js Documentation](https://nextjs.org/docs)**
+- **[Server-Side Rendering in Modern Web Frameworks](https://scholar.google.com/scholar?q=Server+Side+Rendering+in+Next.js)** (Google Scholar)
+
 ---
 
 ## Future Trends in Web Frameworks
@@ -106,6 +118,16 @@ The LLM highlighted that frameworks like React use component-based architectures
 #### LLM Answer Summary:
 The LLM explored trends like hybrid frameworks (CSR + SSR), the rise of **web components**, and the impact of **edge computing** and **serverless architectures** on the future of web frameworks.
 
+#### References:
+- **[Web Components: The Future of Front-End Development](https://developer.mozilla.org/en-US/docs/Web/Web_Components)**
+- **[Edge Computing and the Future of Web Architecture](https://scholar.google.com/scholar?q=Edge+computing+web+architecture)** (Google Scholar)
+
+---
+
+## Final Thoughts
+
+In this exploration, I used an LLM to examine the historical context, challenges, and future trends of modern web frameworks. The research highlights how frameworks like React, Vue, and Angular have addressed issues such as DOM manipulation, state management, and performance bottlenecks, while also looking at how server-side rendering and web components will shape the future of web development.
+
 ---
 
 ## References
@@ -113,5 +135,8 @@ The LLM explored trends like hybrid frameworks (CSR + SSR), the rise of **web co
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Angular Documentation](https://angular.io/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
-- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [React vs. jQuery: Key Differences](https://www.keycdn.com/blog/react-vs-jquery)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Declarative Programming in React](https://scholar.google.com/scholar?q=Declarative+programming+in+React) (Google Scholar)
+- [Edge Computing in Web Development](https://scholar.google.com/scholar?q=Edge+computing+web+development) (Google Scholar)
+
