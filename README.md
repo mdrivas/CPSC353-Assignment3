@@ -35,7 +35,7 @@ The LLM emphasized that early frameworks like React and Angular were developed t
 
 #### References:
 - **[React: A JavaScript Library for Building User Interfaces](https://reactjs.org/docs/getting-started.html)**
-- **[MVC and Component-Based Architectures: Past and Present]([https://scholar.google.com/scholar?q=MVC+architecture+in+web+frameworks](https://www.sciencedirect.com/science/article/pii/S1877050919310683))** (Google Scholar)
+- **[MVC and Component-Based Architectures: Past and Present]((https://www.sciencedirect.com/science/article/pii/S1877050919310683))** (Google Scholar)
 
 ---
 
