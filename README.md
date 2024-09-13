@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this investigation, I explore how modern web frameworks like **React**, **Vue**, and **Angular** have transformed web development and what the future holds for these frameworks. Using an LLM (language model), I delve into the historical context, technical advancements, and emerging trends that shape the future of web development frameworks. This research spans multiple subfields, including **programming language design**, **client-side and server-side rendering techniques**, and **component-based architectures**.
+In this investigation, I explore how modern web frameworks like **React**, **Vue**, and **Angular** have transformed web development and what the future holds for these frameworks. Using an ChatGPT-4o, I looked into the historical context, technical advancements, and emerging trends that shape the future of web development frameworks. This research spans many subfields, including **programming language design**, **client-side and server-side rendering techniques**, and **component-based architectures**.
 
 ---
 
