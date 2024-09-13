@@ -35,7 +35,7 @@ The LLM emphasized that early frameworks like React and Angular were developed t
 
 #### References:
 - **[React: A JavaScript Library for Building User Interfaces](https://reactjs.org/docs/getting-started.html)**
-- **[MVC and Component-Based Architectures: Past and Present]((https://www.sciencedirect.com/science/article/pii/S1877050919310683))** (Google Scholar)
+- **[MVC and Component-Based Architectures: Past and Present](https://www.sciencedirect.com/science/article/pii/S1877050919310683)** (Google Scholar)
 
 ---
 
@@ -67,7 +67,7 @@ The LLM provided insights into how React’s declarative approach, component-bas
 
 #### References:
 - **[React vs. jQuery: A Technical Comparison](https://www.keycdn.com/blog/react-vs-jquery)**
-- **[Declarative Programming in React](https://scholar.google.com/scholar?q=Declarative+programming+in+React)** (Google Scholar)
+- **[Declarative Programming in React](https://link.springer.com/chapter/10.1007/978-3-540-92995-6_2)** (Google Scholar)
 
 ---
 
@@ -95,7 +95,7 @@ The LLM highlighted that frameworks like React use component-based architectures
 
 #### References:
 - **[Next.js Documentation](https://nextjs.org/docs)**
-- **[Server-Side Rendering in Modern Web Frameworks](https://scholar.google.com/scholar?q=Server+Side+Rendering+in+Next.js)** (Google Scholar)
+- **[Server-Side Rendering in Modern Web Frameworks](https://jtec.utem.edu.my/jtec/article/view/6192)** (Google Scholar)
 
 ---
 
@@ -120,7 +120,7 @@ The LLM explored trends like hybrid frameworks (CSR + SSR), the rise of **web co
 
 #### References:
 - **[Web Components: The Future of Front-End Development](https://developer.mozilla.org/en-US/docs/Web/Web_Components)**
-- **[Edge Computing and the Future of Web Architecture](https://scholar.google.com/scholar?q=Edge+computing+web+architecture)** (Google Scholar)
+
 
 ---
 
